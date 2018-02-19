@@ -10,6 +10,7 @@ public class totalSum {
     }
 
     public static void main(String[] args) {
+        // run the program and print the output.
         System.out.format("The total sum from 1 to 100 is %d.\n", totalSumOfNumber(100));
     }
 }
